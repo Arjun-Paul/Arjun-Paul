@@ -40,7 +40,7 @@ Created a dynamic dashboard to track regional sales and profitability.
 ## 📫 Let's Connect
 
 - 💼 [LinkedIn](www.linkedin.com/in/arjun-rawat-3869a6290)
-- 📧 Email: arjun@example.com *(replace with your real email)*
+- 📧 Email: arjun.rawat2468@gmail.com
 <!-- 🌐 Portfolio: [arjunrawat.github.io](https://arjunrawat.github.io) *(if you build one using GitHub Pages)*-->
 
 ---
