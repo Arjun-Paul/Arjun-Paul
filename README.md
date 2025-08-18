@@ -46,8 +46,8 @@ Welcome to my GitHub! This space showcases my projects, case studies, and learni
 - Generated visualizations and structured a professional **report**  
 - Demonstrated strong analytical and storytelling skills  
 
-📑 *Preview:*  
-![CPI Report](https://github.com/Arjun-Paul/India-CPI-Inflation-Analysis-2017-2023/blob/f7bef0016c15e87854aecfaacdd75ca3eff9097b/Report/CPI%20Inflation%20Report.pdf)
+📑 *Report:*  
+[CPI Report](https://github.com/Arjun-Paul/India-CPI-Inflation-Analysis-2017-2023/blob/f7bef0016c15e87854aecfaacdd75ca3eff9097b/Report/CPI%20Inflation%20Report.pdf)
 
 ---
 
@@ -57,8 +57,8 @@ Welcome to my GitHub! This space showcases my projects, case studies, and learni
 - Visualized distributions, growth trends, and state-wise comparisons (Pandas, Matplotlib, **Seaborn**)  
 - Structured repository with notebooks, outputs, and images  
 
-📑 *Preview:*  
-![PhonePe Report](https://github.com/Arjun-Paul/Phonepe-Digital-Payments-Python-Project/blob/ba02c0099cca4875019d0b6a47589aa1ed230a26/Report/PhonePe%20Report%20.pdf)  
+📑 *Report:*  
+[PhonePe Report](https://github.com/Arjun-Paul/Phonepe-Digital-Payments-Python-Project/blob/ba02c0099cca4875019d0b6a47589aa1ed230a26/Report/PhonePe%20Report%20.pdf)  
 
 ---
 
