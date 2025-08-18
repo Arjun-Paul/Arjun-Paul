@@ -30,8 +30,7 @@ Welcome to my GitHub! This space showcases my projects, case studies, and learni
 
 ## 📂 Featured Projects  
 
-### 🔹 [SQL E-Commerce Case Study](https://github.com/Arjun-Paul/SQL-Ecommerce-Project)  
-📑 Performed **SQL-based analysis** on an e-commerce dataset.  
+### 🔹 [SQL E-Commerce Case Study](https://github.com/Arjun-Paul/SQL-Ecommerce-Project)
 - Designed queries for customer behavior, sales trends, and product insights  
 - Created ER Diagram and documented queries  
 - Delivered a detailed **report with business insights**  
