@@ -36,7 +36,7 @@ Welcome to my GitHub! This space showcases my projects, case studies, and learni
 - Delivered a detailed **report with business insights**  
 
 📸 *Preview:*  
-![ER Diagram](https://github.com/Arjun-Paul/Ecommerce-SQL-Case-Study/blob/e1abc73913cce27ad59445dd38ae318c6ed50ca4/Images/ER%20Diagram.p)
+![ER Diagram](https://github.com/Arjun-Paul/Ecommerce-SQL-Case-Study/blob/e1abc73913cce27ad59445dd38ae318c6ed50ca4/Images/ER%20Diagram.png)
 
 ---
 
