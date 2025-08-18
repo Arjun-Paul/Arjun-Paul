@@ -1,50 +1,111 @@
-## Hi there 👋
-# 👋 Hi, I'm Arjun Rawat
+# 👋 Hi, I'm Arjun Rawat  
 
-🎯 A passionate **Data Analyst** focused on uncovering actionable insights from real-world data.  
-📊 Skilled in transforming complex data into clear, interactive visualizations and reports.  
-<!--🌱 Currently exploring datasets on **air quality, public health, and electric vehicle adoption in India**.-->
----
+🎓 Data Enthusiast | 📊 Business Intelligence Developer | 🖥️ SQL & Python Explorer  
 
-## 🛠️ Skills & Tools
-
-- **Languages**: Python, SQL, DAX
-- **Analytics**: Power BI, Excel, Tableau
-- **Libraries**: Pandas, NumPy, Matplotlib, Seaborn
-- **Other**: Git, Jupyter Notebooks, Power Query
+Welcome to my GitHub! This space showcases my projects, case studies, and learnings across **Data Analytics, SQL, Python, Excel, and Power BI**.  
 
 ---
 
-<!--## 📌 Featured Projects
+## 🚀 About Me  
 
-### 🔹 [Air Quality & Health Impact Analysis](https://github.com/arjunrawat/air-quality-health-analysis)
-Analyzed AQI trends across Indian cities and correlated with disease data.  
-📍 **Tools**: Power BI, Python, Excel
+- 📌 Passionate about **data-driven decision making**  
+- 🛠️ Skilled in **SQL, Python, Power BI, and Excel**  
+- 📚 Interested in **Data Visualization, Dashboarding, and Statistical Analysis**  
+- 🌱 Currently exploring **data storytelling & advanced BI techniques**  
 
-### 🔹 [EV Adoption Trends in India](https://github.com/arjunrawat/ev-adoption-india)
-Tracked electric vehicle registrations across states and forecasted future growth.  
-📍 **Tools**: Power BI, SQL
+---
 
-### 🔹 [Retail Sales Dashboard](https://github.com/arjunrawat/retail-sales-dashboard)
-Created a dynamic dashboard to track regional sales and profitability.  
-📍 **Tools**: Excel, Power BI
+## 🛠️ Tech Stack  
 
--->
+- **Programming & Querying**: Python, SQL  
+- **Data Visualization**: Power BI, Excel  
+- **Database**: MySQL  
+- **Libraries**: Pandas, NumPy, Matplotlib, Seaborn  
+- **Tools**: Git, GitHub  
 
-<!--## 📈 GitHub Stats
+---
 
-![Arjun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arjunrawat&show_icons=true&theme=tokyonight)
+## 📂 Featured Projects  
 
---->
+### 🔹 [SQL E-Commerce Case Study](https://github.com/Arjun-Paul/SQL-Ecommerce-Project)  
+📑 Performed **SQL-based analysis** on an e-commerce dataset.  
+- Designed queries for customer behavior, sales trends, and product insights  
+- Created ER Diagram and documented queries  
+- Delivered a detailed **report with business insights**  
 
-## 📫 Let's Connect
+📸 *Preview:*  
+![ER Diagram](https://github.com/Arjun-Paul/SQL-Ecommerce-Project/blob/main/Images/ER_Diagram.png)  
 
-- 💼 [LinkedIn](www.linkedin.com/in/arjun-rawat-3869a6290)
+---
+
+### 🔹 [India CPI Inflation Analysis (Excel)](https://github.com/Arjun-Paul/India-CPI-Inflation-Analysis)  
+📊 Conducted **inflation analysis** using CPI data in Excel.  
+- Focused on regional contributions and category-wise breakdown  
+- Generated visualizations and structured a professional **report**  
+- Demonstrated strong analytical and storytelling skills  
+
+📑 *Preview:*  
+![CPI Report](https://github.com/Arjun-Paul/India-CPI-Inflation-Analysis/blob/main/Images/CPI%20Inflation%20Report.pdf)  
+
+---
+
+### 🔹 [PhonePe Transactions & Users Analysis (Python)](https://github.com/Arjun-Paul/PhonePe-Data-Analysis)  
+🐍 Python-based analysis of **PhonePe transactions and registered users**.  
+- Cleaned and analyzed geo-level and time-series data  
+- Visualized distributions, growth trends, and state-wise comparisons (Pandas, Matplotlib, **Seaborn**)  
+- Structured repository with notebooks, outputs, and images  
+
+📑 *Preview:*  
+![PhonePe Report](https://github.com/Arjun-Paul/PhonePe-Data-Analysis/blob/main/Report/PhonePe%20Report.pdf)  
+
+---
+
+### 🔹 [Shield Insurance Dashboard (Power BI)](https://github.com/Arjun-Paul/PowerBI-Shield-Insurance)  
+📈 **Power BI** dashboard for **Shield Insurance** covering sales, policies, claims, and performance KPIs.  
+- Data model with relationships, calculated columns & DAX measures  
+- KPI cards, trend lines, drill-downs, and slicers for region/agent/product  
+- Shared on LinkedIn; PBIX not public—**preview images & README link provided**
+
+📸 *Preview:*  
+![Shield Insurance Dashboard](https://github.com/Arjun-Paul/PowerBI-Shield-Insurance/blob/main/Images/Dashboard%20Home.png)  
+
+> 🔗 **Dashboard preview placeholder:** Add your published web link or image gallery if PBIX is private.
+
+---
+
+## 📊 Stats & Badges  
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)  
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
+![Seaborn](https://img.shields.io/badge/Seaborn-005571?style=for-the-badge&logo=python&logoColor=white)  
+
+---
+
+## 📈 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Arjun-Pault&show_icons=true&theme=tokyonight" alt="Arjun's GitHub stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun-Paul&layout=compact&theme=tokyonight" alt="Top Languages" height="165"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak  
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Arjun-Paul&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+## 📫 Connect with Me  
+
+- 💼 [LinkedIn](www.linkedin.com/in/arjun-rawat-3869a6290)  
 - 📧 Email: arjun.rawat2468@gmail.com
-<!-- 🌐 Portfolio: [arjunrawat.github.io](https://arjunrawat.github.io) *(if you build one using GitHub Pages)*-->
+- 🐙 [GitHub Profile](https://github.com/Arjun-Paul)  
 
 ---
 
-> *“Data is the new oil — but insights are the fuel.”*  
-> Let’s turn data into decisions 🚀
-
+⚡ *“Turning data into insights, and insights into action.”*  
